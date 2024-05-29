@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7f127b46-d418-4833-bbea-768b9b953d61",
+    "title": "O'tkan Kunlar",
+    "price": "12$",
+    "author": "Abdulla Qodiri",
+    "desc": "Otkan Kunlar kitobi Abdulla Qodiriy asosida yozilgan yaniy aftr Abdulla Qodiri",
+    "image": "5de30a15-ca95-4205-93d4-0d1791231942.png",
+    "views": 0,
+    "createdAdd": "27.05.2024, 09:55:20"
+  },
+  {
+    "id": "b6da3ea8-b368-4a01-b8d7-b9d900d84769",
+    "title": "Jinlar Bazmi",
+    "price": "15$",
+    "author": "Abdulla Qodiri",
+    "desc": "Jinlar Bazmining aftori Abdulla Qodiri",
+    "image": "d05a17b4-1021-4bfc-9849-c5ab067d204f.png",
+    "views": 0,
+    "createdAdd": "27.05.2024, 09:57:56"
+  },
+  {
+    "id": "d75c00b6-5218-4f3d-8083-c067365baf47",
+    "title": "Abdulla Qodiri",
+    "price": "7$",
+    "author": "Abdulla Qodiri",
+    "desc": "Abdulla Qodirining yangi kitobi",
+    "image": "51093c54-c611-44c5-875a-943510b022de.png",
+    "views": 0,
+    "createdAdd": "27.05.2024, 10:20:13"
+  },
+  {
+    "id": "65ee1467-7218-41e7-aa62-98b5c980bb6c",
+    "title": "Kitob",
+    "price": "88$",
+    "author": "Akobir",
+    "desc": "Kitoblar haqida malumot",
+    "image": "8e936f30-37b3-4385-8140-e2ce49e1cf1a.png",
+    "views": 0,
+    "createdAdd": "27.05.2024, 10:20:44"
+  }
+]
